@@ -12,6 +12,17 @@
 	<name>findClass</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
+	<developers>
+		<developer>
+			<id>nta</id>
+			<name>Nicolas Tardy</name>
+			<email>nico.taroy@gmail.com</email>
+			<organization>hshc</organization>
+			<roles>
+				<role>dev</role>
+			</roles>
+		</developer>
+	</developers>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
